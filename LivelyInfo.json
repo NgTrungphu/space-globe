@@ -1,0 +1,12 @@
+{
+    "AppVersion": "1.0.0.0",
+    "Title": "Space globe",
+    "Thumbnail": "thumbnail.jpg",
+    "Preview": "preview2.gif",
+    "Desc": "Matrix like rain animation using HTML5 Canvas. Customizable",
+    "Author": "parambirs / Phu",
+    "License": "",
+    "Contact": "original: https://github.com/NgTrungphu/space-globe - edited: phu#1111",
+    "Type": 1,
+    "FileName": "index.html"
+  }
